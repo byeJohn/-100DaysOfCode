@@ -1,2 +1,2 @@
 # #100DaysOfCode
-* [Log - click here to see my progress](log.md)
+* [log.md](log.md)
