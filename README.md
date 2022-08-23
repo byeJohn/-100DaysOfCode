@@ -1,4 +1,4 @@
 # #100DaysOfCode
-* [log.md](log.md)
+* Current: [log.md](log.md)
 
-[Failed attempt](https://github.com/byeJohn/100-days-of-code/blob/master/log.md)
+* [previous #100DaysOfCode](https://github.com/byeJohn/100-days-of-code/blob/master/log.md)
