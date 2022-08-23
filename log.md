@@ -1,14 +1,19 @@
 ## 100 Days Of Code - Log
 
-## Day 0: Before #100DaysOfCode
+## Day 0: August 23, 2022, Monday
 
-### Progress:
+### Today's Progress:
+
+#100DaysOfCode: 
+
+- Created [log.md](https://github.com/byeJohn/-100DaysOfCode/new/main)
 
 ### Thoughts
 
-- Nothing yet...
-- Nothing yet...
+- This is my second attempt at the #100DaysOfCode challenge.
+- 
 
 ### Link(s) to work
 
 1. [log.md](https://github.com/byeJohn/-100DaysOfCode/new/main)
+2. [Official #100DaysOfCode Website](https://www.100daysofcode.com/)
