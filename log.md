@@ -4,7 +4,13 @@
 
 ### Today's Progress:
 
--
+[#100DaysOfCode](https://www.100daysofcode.com/):
+
+- Updated [log.md](https://github.com/byeJohn/-100DaysOfCode/new/main)
+
+[mooc.fi](https://java-programming.mooc.fi/):
+
+- Completed ...
 
 ### Thoughts
 
