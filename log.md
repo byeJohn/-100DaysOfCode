@@ -1,5 +1,20 @@
 ## 100 Days Of Code - Log
 
+## Day 2: October 13, 2022, Thursday
+
+### Today's Progress:
+
+-
+
+### Thoughts
+
+-
+-
+
+### Link(s) to work
+
+1.
+
 
 ## Day 1: October 12, 2022, Wednesday
 
