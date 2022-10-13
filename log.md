@@ -5,13 +5,22 @@
 
 ### Today's Progress:
 
-#
--
+[#100DaysOfCode](https://www.100daysofcode.com/):
+
+- Updated [log.md](https://github.com/byeJohn/-100DaysOfCode/new/main)
+
+[mooc.fi](https://java-programming.mooc.fi/):
+
+- Completed Part 01_01 - Part 01_05
 
 ### Thoughts
 
--
--
+- Today I attended a Google Talk session at my University, which gave me the drive and motivation to improve myself academically. This led me to 
+  try the [#100DaysOfCode](https://www.100daysofcode.com/) challenge again.
+- I began the mooc.fi Java Programming 1 Course, hoping to solidify my Java programming skills. Through mooc.fi, I read about the fundamentals of 
+  strings, how to properly request for user input, how to properly print out text, the boilerplate of Java programs, etc.
+- So far I have been able to go through this course with ease due to previously talking an Introduction to Java course in Spring 2021. This course 
+  has provided me with more in-depth explanations of how programming works. 
 
 ### Link(s) to work
 
