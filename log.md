@@ -40,7 +40,6 @@
 ### Thoughts
 
 - This is my second attempt at the #100DaysOfCode challenge.
-- 
 
 ### Link(s) to work
 
