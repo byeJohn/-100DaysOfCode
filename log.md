@@ -24,7 +24,7 @@
 
 ### Link(s) to work
 
-
+1. [log.md](https://github.com/byeJohn/-100DaysOfCode/new/main)
 
 
 
