@@ -14,7 +14,7 @@
 
 ### Thoughts
 
--
+- Today I continued working through 
 -
 
 ### Link(s) to work
