@@ -11,6 +11,10 @@
 [mooc.fi](https://java-programming.mooc.fi/):
 
 - Completed ...
+-
+[jnguyn.me](jnguyn.me/)
+
+- Updated profile picture
 
 ### Thoughts
 
