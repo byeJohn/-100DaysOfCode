@@ -1,5 +1,8 @@
 ## 100 Days Of Code - Log
 
+
+
+
 ## Day 3: October 14, 2022, Friday
 
 ### Today's Progress:
