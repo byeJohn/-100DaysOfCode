@@ -1,6 +1,70 @@
 ## 100 Days Of Code - Log
 
+## Day 6: October 17, 2022, Monday
 
+### Today's Progress:
+
+[#100DaysOfCode](https://www.100daysofcode.com/):
+
+- Updated [log.md](https://github.com/byeJohn/-100DaysOfCode/new/main)
+
+[mooc.fi](https://java-programming.mooc.fi/):
+
+- Completed ...
+
+### Thoughts
+
+- Today I continued working through 
+- I plan to go more in depth with what I have learned.
+
+### Link(s) to work
+
+1.
+
+
+
+## Day 5: October 16, 2022, Sunday
+
+### Today's Progress:
+
+[#100DaysOfCode](https://www.100daysofcode.com/):
+
+- Updated [log.md](https://github.com/byeJohn/-100DaysOfCode/new/main)
+
+[mooc.fi](https://java-programming.mooc.fi/):
+
+- Completed ...
+
+### Thoughts
+
+- Today I continued working through 
+-
+
+### Link(s) to work
+
+1.
+
+
+## Day 4: October 15, 2022, Saturday
+
+### Today's Progress:
+
+[#100DaysOfCode](https://www.100daysofcode.com/):
+
+- Updated [log.md](https://github.com/byeJohn/-100DaysOfCode/new/main)
+
+[mooc.fi](https://java-programming.mooc.fi/):
+
+- Completed ...
+
+### Thoughts
+
+- Today I continued working through 
+-
+
+### Link(s) to work
+
+1.
 
 
 ## Day 3: October 14, 2022, Friday
@@ -27,8 +91,6 @@
 ### Link(s) to work
 
 1.
-
-
 
 
 
