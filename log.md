@@ -1,5 +1,34 @@
 ## 100 Days Of Code - Log
 
+## Day 8: October 19, 2022, Wednesday
+
+### Today's Progress:
+
+[#100DaysOfCode](https://www.100daysofcode.com/):
+
+- Updated [log.md](https://github.com/byeJohn/-100DaysOfCode/new/main)
+
+[mooc.fi](https://java-programming.mooc.fi/):
+
+- Completed ...
+
+### Thoughts
+
+- Today I continued working through 
+- 
+
+### Link(s) to work
+
+1.
+
+
+
+
+
+
+
+
+
 ## Day 7: October 18, 2022, Tuesday
 
 ### Today's Progress:
