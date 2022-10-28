@@ -1,6 +1,7 @@
 ## 100 Days Of Code - Log
 
-
+## Day X: October 27, 2022, Thursday
+- #100DaysOfCode failed. 
 
 ## Day 10: October 21, 2022, Friday
 
